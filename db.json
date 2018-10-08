@@ -1,9 +1,11 @@
 {
   "favorites": [
     {
+      "id": "btcusdt",
       "symbol": "btcusdt"
     },
     {
+      "id": "ethbtc",
       "symbol": "ethbtc"
     }
   ]
