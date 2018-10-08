@@ -11,9 +11,50 @@
   ],
   "symbols": [
     { "base": "eth", "quote": "usdt", "symbol": "ethusdt" },
-    { "base": "etc", "quote": "usdt", "symbol": "etcusdt" },
     { "base": "btc", "quote": "usdt", "symbol": "btcusdt" },
     { "base": "eth", "quote": "btc", "symbol": "ethbtc" },
     { "base": "etc", "quote": "btc", "symbol": "etcbtc" }
+  ],
+  "tickers": [
+    {
+      "open": 6639.82,
+      "close": 6607.77,
+      "low": 6602.39,
+      "high": 6640.58,
+      "amount": 66,
+      "vol": 23,
+      "count": 123456,
+      "symbol": "ethusdt"
+    },
+    {
+      "open": 6639.82,
+      "close": 6607.77,
+      "low": 6602.39,
+      "high": 6640.58,
+      "amount": 66,
+      "vol": 23,
+      "count": 123456,
+      "symbol": "btcusdt"
+    },
+    {
+      "open": 6639.82,
+      "close": 6607.77,
+      "low": 6602.39,
+      "high": 6640.58,
+      "amount": 66,
+      "vol": 23,
+      "count": 123456,
+      "symbol": "ethbtc"
+    },
+    {
+      "open": 6639.82,
+      "close": 6607.77,
+      "low": 6602.39,
+      "high": 6640.58,
+      "amount": 66,
+      "vol": 23,
+      "count": 123456,
+      "symbol": "etcbtc"
+    }
   ]
 }
